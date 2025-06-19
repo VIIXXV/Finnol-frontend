@@ -718,7 +718,7 @@ export default function Game() {
             color: 'rgba(255,255,255,0.7)',
             pointerEvents: 'none'
           }}>
-            BGM “Tiki_Bar_Mixer.mp3” by Kevin MacLeod (incompetech.com) — CC BY 3.0
+            BGM “ Tiki_Bar_Mixer.mp3 ” by Kevin MacLeod (incompetech.com) — CC BY 3.0
           </div>
 
           {/* 시작 버튼 */}
