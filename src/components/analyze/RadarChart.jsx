@@ -37,7 +37,7 @@ export default function RadarGraph({ thisWeek, lastWeek }) {
       </div>
 
       <div className={styles.textSection}>
-        <h3>이해도 분석</h3>
+        <h3>학습 분석</h3>
         <p>이번 주와 지난 주의 학습 성과를 항목별로 비교해보세요!</p>
         <p className={styles.summaryText}>{getSummaryText()}</p>
       </div>

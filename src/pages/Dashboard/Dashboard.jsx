@@ -48,7 +48,7 @@ export default function Dashboard() {
             <RadarGraph thisWeek={thisWeek} lastWeek={lastWeek} />
           ) : (
             <p style={{ textAlign: 'center', padding: '60px 0' }}>
-              이해도 분석 데이터를 불러오는 중입니다...
+              분석 데이터를 불러오는 중입니다...
             </p>
           )}
         </div>
